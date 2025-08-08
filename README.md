@@ -1,20 +1,37 @@
 # 💫 About Me:
-Hi, I'm **Dumne Vijay**, a passionate and curious Full Stack Developer skilled in Python and DevOps practices.  
-I bring practical experience from my **Software Engineer Internship** at [RapidKen.ai](https://rapidken.ai), where I contributed to automation, performance testing, and AI integrations.  
+Hi, I'm **Dumne Vijay**, a Full Stack Developer with a strong foundation in **Python development**, **DevOps practices**, and **software testing**.  
 
-I love building efficient solutions — from web apps to automation scripts — and continuously exploring new technologies.
+I recently completed an internship at **RapidKen.ai**, where I worked on automation, performance testing, and API development — applying real-world software engineering practices. I'm passionate about building impactful, secure, and scalable applications.
 
 ---
 
 ## 💼 Experience:
 **Software Engineer Intern**  
-📍 Remote @ RapidKen.ai — Bengaluru  
+📍 Remote @ [RapidKen.ai](https://rapidken.ai) — Bengaluru  
 🗓️ Dec 2024 – Mar 2025  
-- Developed **automated frontend testing** using Selenium + JavaScript.
-- Conducted **performance testing** for Flask APIs using **Locust** with Google Cloud Store integration.
-- Built reusable **API test frameworks** using Python's `unittest`.
-- Integrated OpenAI APIs in Google Colab for NLP tasks.
-- Delivered targeted frontend enhancements as per specifications.
+- Developed **automated frontend tests** using Selenium and JavaScript.
+- Performed **performance testing** on Flask APIs using Locust with Google Cloud Store simulation.
+- Built reusable **API functional testing** frameworks with Python's `unittest`.
+- Integrated **OpenAI APIs** via Python in Google Colab for natural language processing.
+- Contributed to targeted **frontend improvements** as per project needs.
+
+---
+
+## 🛠 Technical Skills:
+**Languages & Scripting:**  
+- Python, Java, JavaScript, HTML, CSS, Shell Scripting  
+
+**Testing & Automation:**  
+- Selenium, unittest, Locust (Performance Testing)  
+
+**Databases:**  
+- MySQL, Microsoft SQL Server  
+
+**Cloud & APIs:**  
+- Google Cloud Platform (GCP), OpenAI API  
+
+**Dev Tools:**  
+- Git, GitHub, VS Code, Google Colab  
 
 ---
 
@@ -25,42 +42,25 @@ I love building efficient solutions — from web apps to automation scripts — 
 
 ---
 
-## 🛠 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
----
-
 ## 🚀 Projects:
-- 🔐 **Financial Management System (FMS)**  
-  A desktop app using **Python (Tkinter)** + **MySQL** to manage small-scale financier data.
+- 💼 **Financial Management System (FMS)**  
+  A desktop application using **Python (Tkinter)** and **MySQL** to manage daily transactions for small-scale financiers.
 
 - 🌐 **Personal Portfolio Website**  
-  A responsive showcase of my work built with **HTML, CSS, and JavaScript**:  
+  Built with **HTML, CSS, JavaScript** — to showcase my skills and projects.  
   🔗 [dumnevijay.github.io](https://dumnevijay.github.io/)
 
 ---
 
 ## 📜 Achievements:
-🏆 Ranked in **top 3%** (Rank 636/23,667) in ECET – a State-Level Engineering Entrance Exam.
+- 🏆 Ranked in the **top 3%** (636/23,667) in ECET, a state-level engineering entrance exam.
+- 🎓 B.Tech in Civil Engineering with a CGPA of **8.16/10.0**  
+- 📌 [Internship Certificate Post on LinkedIn](https://www.linkedin.com/posts/dumnevijay_intership-experience-certificate-activity-7329146612104998912-be0B?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZr3koBA62HflXduTyp-KqAa5J9EvohwIo)
 
 ---
 
-## 📚 Certifications & Posts:
-💼 [LinkedIn Internship Certification Post](#) *(← You can replace this link)*
-
----
-
-## 📸 Hobbies:
-- Photography  
-- Photo and Video Editing
+## 🎨 Hobbies:
+📸 Photography | 🎞️ Video Editing | 🖼️ Photo Editing
 
 ---
 
