@@ -8,7 +8,7 @@ I recently completed an internship at **RapidKen.ai**, where I worked on automat
 ## 💼 Experience:
 **Software Engineer Intern**  
 📍 Remote @ [RapidKen.ai](https://rapidken.ai) — Bengaluru  
-🗓️ Dec 2024 – Mar 2025  
+🗓️ Dec 2024 – Apr 2025  
 - Developed **automated frontend tests** using Selenium and JavaScript.
 - Performed **performance testing** on Flask APIs using Locust with Google Cloud Store simulation.
 - Built reusable **API functional testing** frameworks with Python's `unittest`.
