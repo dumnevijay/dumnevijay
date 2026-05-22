@@ -125,11 +125,11 @@ Building **HealthClaim Nexus**, a health insurance claim processing platform des
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dumnevijay&theme=dark&hide_border=false&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dumnevijay&theme=dark&hide_border=false&show_icons=true&count_private=true&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dumnevijay&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dumnevijay&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dumnevijay&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dumnevijay&theme=dark&hide_border=false&layout=compact&cache_seconds=1800)
 
 </div>
 
