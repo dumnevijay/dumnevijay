@@ -125,19 +125,13 @@ Building **HealthClaim Nexus**, a health insurance claim processing platform des
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dumnevijay&theme=dark&hide_border=false&show_icons=true&count_private=true&cache_seconds=1800)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dumnevijay&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dumnevijay&theme=dark&hide_border=false&layout=compact&cache_seconds=1800)
 
 </div>
 
 ---
 
 <div align="center">
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=dumnevijay&icon=0&color=0)](https://visitcount.itsvg.in)
 
 *Open to full-time roles and freelance opportunities in full-stack or backend engineering.*
 
