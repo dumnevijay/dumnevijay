@@ -2,12 +2,10 @@
 
 # Dumne Vijay
 
-### Full-Stack Software Engineer · .NET Core · React · Healthcare APIs
+### Civil Engineer · Tekla Structures · AutoCAD · BIM Detailing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dumnevijay)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=githubpages&logoColor=white)](https://dumnevijay.github.io)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vijay_dumne)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@explorethedevops)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dumnevijay20@gmail.com)
 
 </div>
@@ -16,91 +14,59 @@
 
 ## 👋 About Me
 
-I'm a **Full-Stack Software Engineer** based in Hyderabad, building production-grade platforms at the intersection of healthcare and modern software architecture. Currently architecting **HealthClaim Nexus** — a health insurance claim processing system with full ABDM/ABHA API v3 compliance — using ASP.NET Core 10, Clean Architecture, and PostgreSQL.
+I'm a **Civil Engineering graduate** based in Hyderabad, building a career as a **Tekla Structures / BIM Detailer**. My background combines real site experience — quantity surveying, Bar Bending Schedule verification, and construction quality checks — with structural drafting and analysis using AutoCAD, STAAD.Pro, and GEO5.
 
-I care about writing **maintainable, well-tested code** that solves real problems. My background spans REST API development, automated testing pipelines, and cloud integrations across GCP and AWS.
+I'm currently building hands-on modeling skills in **Tekla Structures** for structural steel and RCC detailing, following Indian Standard codes (IS 456, IS 800, IS 875, IS 1893) throughout my drafting work. I care about drawings that hold up on-site, not just on screen — a perspective shaped directly by time spent on active construction sites.
 
 ---
 
 ## 🛠 Technical Skills
 
-**Languages**
-`C#` `TypeScript` `JavaScript` `Python`
+**Detailing & Modeling**
+`Tekla Structures` `AutoCAD (2D/3D)` `BIM` `Structural Detailing` `Steel Detailing` `RCC Detailing`
 
-**Frameworks & Platforms**
-`ASP.NET Core 10` `.NET Core` `React 18` `FastAPI` `Flask`
+**Structural Analysis**
+`STAAD.Pro` `GEO5` `Structural Design & Analysis` `Retaining Wall Design` `FEM Analysis`
 
-**Architecture & Patterns**
-`Clean Architecture` `Multi-Tenant SaaS` `RESTful API Design` `Domain-Driven Design`
+**Documentation & Standards**
+`IS 456` `IS 800` `IS 875` `IS 1893` `Bar Bending Schedule (BBS)` `Construction Documentation`
 
-**Databases & ORM**
-`PostgreSQL 15+` `MySQL` `Entity Framework Core 10` `SQLAlchemy` `Alembic`
+**Site & Project Skills**
+`Quantity Surveying & Cost Estimation` `Quality Control Testing (IS 516, IS 2720)` `Surveying & Leveling` `Site Supervision`
 
-**Auth & Security**
-`JWT Bearer Authentication` `Role-Based Access Control (RBAC)`
-
-**Healthcare Standards**
-`ABDM/ABHA API v3` `Ayushman Bharat Digital Mission` `NHA Compliance`
-
-**DevOps & Cloud**
-`Docker` `Docker Compose` `GCP` `AWS` `Git` `GitHub`
-
-**Testing**
-`Selenium` `Locust` `pytest` `unittest` · Unit · Integration · Performance · API
+**Software**
+`MS Office Suite` `MS Project`
 
 ---
 
 ## 💼 Experience
 
-### Software Engineer — [Parikara.org](https://parikara.org)
-📍 Remote, Hyderabad &nbsp;|&nbsp; 🗓️ Aug 2025 – Present
+### Architectural Intern — Studio Architects & Developers
+📍 Hyderabad &nbsp;|&nbsp; 🗓️ Feb 2024 – Mar 2024
 
-Building **HealthClaim Nexus**, a health insurance claim processing platform designed for NHA/ABDM compliance:
-
-- Architected the platform on **Clean Architecture** (Domain → Application → Infrastructure → API) using ASP.NET Core 10 and PostgreSQL, with domain modules across Claims, Finance, Insurance, Consent, and Documents
-- Integrated **ABHA API v3** with Aadhaar OTP-based authentication and patient registration flows (new and returning), enabling compliant digital health identity management
-- Implemented the **ABDM Scan & Share** workflow for secure health record sharing across facilities; consent management module in active development
-- Containerized platform services with **Docker & Docker Compose** — local dev environment operational, production deployment in progress
-- Implemented **JWT Bearer + RBAC** authentication and centralized request logging via Serilog across the API middleware pipeline
+- Collaborated with senior architects on residential and commercial building design and drafting
+- Verified architectural and structural drawings against site conditions through regular site visits and quality checks during construction phases
 
 ---
 
-### Software Engineer Intern — [RapidKen.ai](https://rapidken.ai)
-📍 Remote, Bengaluru &nbsp;|&nbsp; 🗓️ Dec 2024 – Apr 2025
+### Site Engineer (Internship) — SRR Projects Pvt. Ltd.
+📍 Hyderabad &nbsp;|&nbsp; 🗓️ Mar 2021 – Aug 2021
 
-- Built **automated frontend test suites** using Selenium with JavaScript, covering critical user flows across web interfaces
-- Conducted **API load testing** for Flask services using Locust with GCS integration — identified and resolved real-world traffic bottlenecks
-- Developed **reusable API functional testing frameworks** with Python's `unittest`, establishing standardized protocols for backend services
-- Built Python utilities in Google Colab integrating the **OpenAI API** for NLP capabilities in client applications
-
----
-
-## 🚀 Projects
-
-### [HealthClaim Nexus](https://github.com/dumnevijay) — Health Insurance Claim Processing Platform
-`ASP.NET Core 10` `PostgreSQL` `Docker` `ABDM/ABHA API v3` `OCR` `Clean Architecture`
-
-> Active production build — government-compliant health insurance platform
-
-- ABHA API v3 Aadhaar OTP authentication fully implemented and tested
-- OCR-based claim document extraction pipeline operational
-- ABDM Scan & Share workflow complete; JWT auth, Docker config, and test coverage in active development
-- Structured across Clean Architecture layers: Claims · Finance · Insurance · Consent · Documents
+- Conducted quantity surveying for structural elements including beams, columns, and slabs
+- Reviewed and verified Bar Bending Schedules (BBS) for accuracy prior to concrete pours
+- Performed surveying for road construction and quality control testing as per IS 516 and IS 2720
 
 ---
 
-### [AI-Powered Exam Management System](https://github.com/dumnevijay/ExamManagementSystem)
-`FastAPI` `React 18` `TypeScript` `PostgreSQL` `WebSockets` `JWT` `ReportLab`
+## 🚀 Academic Project
 
-- Full-stack exam platform with AI-powered adaptive learning and real-time analytics
-- WebSocket-based live exam monitoring with automated PDF report generation via ReportLab
+### Analysis and Design of Cantilever Retaining Wall
+`GEO5` `FEM Analysis` `IS 456:2000` — B.Tech Major Project
 
----
-
-### [Personal Portfolio Website](https://dumnevijay.github.io)
-`HTML5` `CSS3` `JavaScript`
-
-- Fully responsive portfolio with mobile-first layouts and cross-browser compatibility
+- Performed stability analysis and design of cantilever retaining walls, combining analytical and Finite Element Method (FEM) approaches per IS 456:2000
+- Modeled multiple layered-soil configurations (Black Cotton, Red, and Alluvial soils) across two backfill slope conditions (0° and 15°)
+- Evaluated overturning, sliding, bearing capacity, and global slope stability using the Fellenius/Petterson method
+- Achieved a Factor of Safety greater than 1.5 in all analyzed cases; found that increasing slope angle and key shear improves stability
 
 ---
 
@@ -108,31 +74,30 @@ Building **HealthClaim Nexus**, a health insurance claim processing platform des
 
 | Degree | Institution | Year | CGPA |
 |--------|------------|------|------|
-| B.Tech | Vidya Jyothi Institute of Technology, Hyderabad | 2021–2024 | 8.16 / 10.0 |
-| Diploma in Engineering | VNR Vignana Jyothi Institute of Engineering & Technology | 2018–2021 | 8.87 / 10.0 |
-| SSC | Little Star's High School, Shankarpally | 2018 | 8.5 / 10.0 |
+| B.Tech, Civil Engineering | Vidya Jyothi Institute of Technology, Hyderabad | 2024 | 8.16 / 10.0 |
+| Diploma in Civil Engineering | VNR Vignana Jyothi Institute of Engineering & Technology | 2021 | 8.87 / 10.0 |
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Recognition
 
-- **ECET State Rank 636 / 23,667** — Top 3% — secured direct B.Tech admission via state-level engineering entrance
-- Maintained **CGPA above 8.0** consistently across SSC, Diploma, and B.Tech
+- **1st Prize Winner** — AutoCAD Competition, Udhbhav'22, National Level Techno-Cultural Fest, Vidya Jyothi Institute of Technology (May 2022)
+
+## 📜 Certifications & Training
+
+- **Software Applications for Sustainable Water Resources Management (SASWRM-2023)** — Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad | Grade: A+/A
+- **AutoCAD Training Certificate** — CAD Technologies Software Training Institute, Hyderabad | Comprehensive training in 2D/3D drafting and construction drawings
 
 ---
 
-## 📊 GitHub Stats
+## 🗣 Languages
+
+English (Fluent) · Telugu (Native) · Hindi (Fluent)
+
+---
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dumnevijay&theme=dark&hide_border=false)
-
-</div>
-
----
-
-<div align="center">
-
-*Open to full-time roles and freelance opportunities in full-stack or backend engineering.*
+*Open to Junior Tekla Detailer / BIM Modeler / AutoCAD Draftsman roles.*
 
 </div>
